@@ -15,6 +15,8 @@ links to articles, in a particular English Wikipedia article. If this
 article is deleted or changed, or if the ID of this table changed (as it
 has since the earliest version of this program was written and run), this
 code will not work as is.
+
+code explanations: https://github.com/copilot/share/c067419c-4920-8852-a900-020ca4304191
 """
 
 import re
