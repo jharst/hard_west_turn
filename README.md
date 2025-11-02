@@ -5,3 +5,5 @@
 This repository makes the original source code available (also published on the author's [website](https://nickm.com/code/hard_west_turn_2018.py)), which, however, doesn't work anymore due to changes made by Wikipedia. 
 
 Additionally, there is a slightly modified version which works (for now) and a commented version as a Jupyter notebook which demonstrates how the code works.
+
+![images](https://badquar.to/images/hwt_2018_p_276.png)
