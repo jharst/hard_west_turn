@@ -1,0 +1,7 @@
+# Nick Montfort's Hard West Turn
+
+*Hard West Turn* is a computer-generated novel about gun violence in the United States by [Nick Montfort](http://nickm.com), published in 2018 by [badquarto](https://badquar.to/publications/hard_west_turn.html). Based on a Python script that processes text from Wikipedia's articles about mass shootings in the US, it narrates the journey of a nameless man who has lost his home and travels West through a country plagued by violence. His experiences are reflected in a language that gradually becomes simpler and more fragmented.  
+
+This repository makes the original source code available (also published on the author's [website](https://nickm.com/code/hard_west_turn_2018.py)), which, however, doesn't work anymore due to changes made by Wikipedia. 
+
+Additionally, there is a slightly modified version which works (for now) and a commented version as a Jupyter notebook which demonstrates how the code works.
